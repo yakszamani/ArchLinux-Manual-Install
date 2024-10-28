@@ -2,7 +2,7 @@
 
 Welcome to the Arch Linux Manual Installation Guide repository! This guide will walk you through a step-by-step manual installation process for Arch Linux, covering topics such as partitioning, encryption, and LVM setup. For detailed instructions, please refer to the attached PDF document, which provides a comprehensive breakdown of the installation process.
 
-📄 Download the Installation Guide PDF
+[📄 Download the Installation Guide PDF](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
 
 ---
 ## Overview
@@ -16,7 +16,7 @@ Installing essential packages, including the kernel, GRUB, and NetworkManager
 Troubleshooting tips for common issues
 
 ## Table of Contents
-1. [Prerequisites](#prerequisites)
+1. [Prerequisites](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
 2. [Arch Linux ISO & Boot Media Setup](#arch-linux-iso--boot-media-setup)
 3. [Partitioning & Filesystem Setup](#partitioning--filesystem-setup)
 4. [Encryption and LVM Setup](#encryption-and-lvm-setup)
@@ -37,7 +37,7 @@ Before starting, ensure you have:
 1. Download the ISO.
 2. Create a bootable USB using **Rufus** or **USBImager**.
 
-[More details in PDF](#details)
+[More details in PDF](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
 
 ---
 
