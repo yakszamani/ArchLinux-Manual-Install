@@ -17,13 +17,13 @@ Troubleshooting tips for common issues
 
 ## Table of Contents
 1. [Prerequisites](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
-2. [Arch Linux ISO & Boot Media Setup](#arch-linux-iso--boot-media-setup)
-3. [Partitioning & Filesystem Setup](#partitioning--filesystem-setup)
-4. [Encryption and LVM Setup](#encryption-and-lvm-setup)
-5. [Installing and Configuring Packages](#installing-and-configuring-packages)
-6. [Final Steps](#final-steps)
-7. [Troubleshooting](#troubleshooting)
-8. [Contributing](#contributing)
+2. [Arch Linux ISO & Boot Media Setup](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
+3. [Partitioning & Filesystem Setup](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
+4. [Encryption and LVM Setup](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
+5. [Installing and Configuring Packages]([#installing-and-configuring-packages)
+6. [Final Steps](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
+7. [Troubleshooting](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
+8. [Contributing](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Before starting, ensure you have:
 2. **Format the partitions**:
    - EFI: `mkfs.fat -F32 /dev/sdX1`
    - Root: `mkfs.ext4 /dev/sdX2`
-[More details is located in the PDF](#details)
+[More details is located in the PDF](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
 
 ## Encryption and LVM Setup
 1. Encrypt the main disk:
@@ -68,7 +68,7 @@ Before starting, ensure you have:
 
 3. Create logical volumes for root and home.
 
-[More details is located in the pdf](#details)
+[More details is located in the pdf](https://github.com/yakszamani/ArchLinux-Manual-Install/blob/main/Installing%20Arch%20Linux.pdf)
 
 ---
 
